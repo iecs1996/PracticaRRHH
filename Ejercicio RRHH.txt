@@ -2,3 +2,10 @@
 
 - **Uso de hojas de cálculo compartidas**: Aunque es una solución simple y de bajo costo, no permite la visualización dinámica ni el análisis avanzado de datos.
 - **Desarrollo de un dashboard interno personalizado**: Aunque ofrece flexibilidad, requeriría un esfuerzo significativo en términos de desarrollo y mantenimiento.
+
+## Implementación y Migración (INTEGRANTE 5)
+
+- **Fase 1**: Configuración de las fuentes de datos y conexión con Power BI (2 semanas).
+- **Fase 2**: Desarrollo de vistas y reportes personalizados (3 semanas).
+- **Fase 3**: Pruebas y ajustes finales (1 semana).
+- **Fase 4**: Migración de datos históricos y lanzamiento del dashboard (2 semanas).
